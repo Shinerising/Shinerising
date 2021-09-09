@@ -32,7 +32,7 @@ I love playing games and watching anime.
 
 ## <img height="32em" src="/images/laptop.svg" align="left"/> Tech Stack
 
-> <img height="28em" src="/images/computer.svg" align="left"/>
+> <img height="28em" src="/images/application.svg" align="left"/>
 
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp)
 ![](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio)
@@ -82,25 +82,25 @@ I love playing games and watching anime.
 
 ## <img height="32em" src="/images/contact.svg" align="left"/> Connect with me
 
-> <img height="28em" src="/images/facebook.svg" align="left"/>
+> <img height="28em" src="/images/arrow.svg" align="left"/>
 
-[![](https://img.shields.io/badge/Facebook-NA-FAFAFA?style=for-the-badge&labelColor=1877F3)]()
+[![](https://img.shields.io/badge/Facebook-@WSapollo-FAFAFA?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F3)](https://www.facebook.com/wsapollo)
 
-> <img height="28em" src="/images/twitter.svg" align="left"/>
+> <img height="28em" src="/images/arrow.svg" align="left"/>
 
-[![](https://img.shields.io/badge/Twitter-NA-FAFAFA?style=for-the-badge&labelColor=1DA1F2)]()
+[![](https://img.shields.io/badge/Twitter-@shinerising-FAFAFA?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/shinerising)
 
-> <img height="28em" src="/images/instagram.svg" align="left"/>
+> <img height="28em" src="/images/arrow.svg" align="left"/>
 
-[![](https://img.shields.io/badge/Instagram-NA-FAFAFA?style=for-the-badge&labelColor=E4405F)]()
+[![](https://img.shields.io/badge/Instagram-@apollowayne-FAFAFA?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/apollowayne/)
 
-> <img height="28em" src="/images/unsplash.svg" align="left"/>
+> <img height="28em" src="/images/arrow.svg" align="left"/>
 
-[![](https://img.shields.io/badge/Unsplash-NA-FAFAFA?style=for-the-badge&labelColor=212121)]()
+[![](https://img.shields.io/badge/Unsplash-@shinerising-FAFAFA?style=for-the-badge&logo=unsplash&logoColor=white&labelColor=212121)](https://unsplash.com/@shinerising)
 
-> <img height="28em" src="/images/codepen.svg" align="left"/>
+> <img height="28em" src="/images/arrow.svg" align="left"/>
 
-[![](https://img.shields.io/badge/Codepen-NA-FAFAFA?style=for-the-badge&labelColor=212121)]()
+[![](https://img.shields.io/badge/Codepen-@wapollo-FAFAFA?style=for-the-badge&logo=codepen&logoColor=white&labelColor=212121)](https://codepen.io/wapollo)
 
 ## <img height="32em" src="/images/coffee.svg" align="left"/> Donation
 
