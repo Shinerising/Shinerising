@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there 👋
+
+## 🛠 Tech Stack
 
 ![](https://img.shields.io/badge/JavaScript-120A3B?style=for-the-badge&logo=javascript)
 ![](https://img.shields.io/badge/TypeScript-D8E4F7?style=for-the-badge&logo=typescript)
@@ -15,7 +17,16 @@
 ![](https://img.shields.io/badge/Android%20Development-545454?style=for-the-badge&logo=androidstudio)
 ![](https://img.shields.io/badge/GraphQL-610028?style=for-the-badge&logo=graphql)
 
-Buy me a cup of ☕️. Thank you! ❤️
+## 📃 Stats
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shinerising&hide=issues&include_all_commits=true&count_private=true&show_icons=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinerising&layout=compact">
+</p>
+
+## ☕️ Donation
+
+Buy me a cup of coffee. Thank you! ❤️
 
 [![Donate with Paypal](https://apollowayne.me/donate_paypal.svg)](https://www.paypal.me/WSapollo/5USD)
 [![Donate with Alipay](https://apollowayne.me/donate_alipay.svg)](https://apollowayne.me/alipay.html?amount=20.00&url=https://qr.alipay.com/fkx03883k0k6zcocuduxn70)
