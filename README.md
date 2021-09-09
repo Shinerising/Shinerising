@@ -35,9 +35,9 @@ I love playing games and watching anime.
 <img height="30em" src="/images/computer.svg" align="left"/>
 
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp)
-![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=visualstudio)
+![](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio)
 ![](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java)
-![](https://img.shields.io/badge/Android%20Development-545454?style=for-the-badge&logo=androidstudio)
+![](https://img.shields.io/badge/Android-545454?style=for-the-badge&logo=androidstudio)
 
 <img height="30em" src="/images/webdesign.svg" align="left"/>
 
@@ -51,27 +51,27 @@ I love playing games and watching anime.
 ![](https://img.shields.io/badge/Python-97B6FB?style=for-the-badge&logo=python)
 ![](https://img.shields.io/badge/TypeScript-D8E4F7?style=for-the-badge&logo=typescript)
 ![](https://img.shields.io/badge/Node.js-AADDAA?style=for-the-badge&logo=node.js)
-![](https://img.shields.io/badge/TypeScript-D8E4F7?style=for-the-badge&logo=php)
+![](https://img.shields.io/badge/php-121245?style=for-the-badge&logo=php)
 
 <img height="30em" src="/images/database.svg" align="left"/>
 
-![](https://img.shields.io/badge/GraphQL-610028?style=for-the-badge&logo=mongodb)
-![](https://img.shields.io/badge/GraphQL-610028?style=for-the-badge&logo=postgresql)
-![](https://img.shields.io/badge/GraphQL-610028?style=for-the-badge&logo=microsoftsqlserver)
+![](https://img.shields.io/badge/MongoDB-86DA56?style=for-the-badge&logo=mongodb)
+![](https://img.shields.io/badge/PostgreSQL-213595?style=for-the-badge&logo=postgresql)
+![](https://img.shields.io/badge/Sql%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
 ![](https://img.shields.io/badge/GraphQL-610028?style=for-the-badge&logo=graphql)
 
 <img height="30em" src="/images/game.svg" align="left"/>
 
 ![](https://img.shields.io/badge/Unity-020202?style=for-the-badge&logo=unity)
-![](https://img.shields.io/badge/GraphQL-610028?style=for-the-badge&logo=blender)
-![](https://img.shields.io/badge/GraphQL-610028?style=for-the-badge&logo=opengl)
+![](https://img.shields.io/badge/Blender-F8D850?style=for-the-badge&logo=blender)
+![](https://img.shields.io/badge/OpenGL-88B6F2?style=for-the-badge&logo=opengl)
 
 <img height="30em" src="/images/photoedit.svg" align="left"/>
 
-![](https://img.shields.io/badge/GraphQL-610028?style=for-the-badge&logo=sketch)
-![](https://img.shields.io/badge/GraphQL-610028?style=for-the-badge&logo=figma)
-![](https://img.shields.io/badge/GraphQL-610028?style=for-the-badge&logo=photoshop)
-![](https://img.shields.io/badge/GraphQL-610028?style=for-the-badge&logo=illustrator)
+![](https://img.shields.io/badge/Sketch-D54D20?style=for-the-badge&logo=sketch)
+![](https://img.shields.io/badge/Figma-922E08?style=for-the-badge&logo=figma)
+![](https://img.shields.io/badge/Photoshop-134290?style=for-the-badge&logo=adobephotoshop)
+![](https://img.shields.io/badge/Illustrator-A04000?style=for-the-badge&logo=adobeillustrator)
 
 ## <img height="32em" src="/images/stats.svg" align="left"/> GitHub Stats
 
@@ -82,11 +82,11 @@ I love playing games and watching anime.
 
 ## <img height="32em" src="/images/contact.svg" align="left"/> Connect with me
 
-<div><img src="https://img.shields.io/badge/Facebook-NA-000000?style=for-the-badge&logo=facebook&labelColor=abcdef"></div>
-<div><img src="https://img.shields.io/badge/Twitter-NA-000000?style=for-the-badge&logo=twitter&labelColor=abcdef"></div>
-<div><img src="https://img.shields.io/badge/Instagram-NA-000000?style=for-the-badge&logo=instagram&labelColor=abcdef"></div>
-<div><img src="https://img.shields.io/badge/Unsplash-NA-000000?style=for-the-badge&logo=unsplash&labelColor=abcdef"></div>
-<div><img src="https://img.shields.io/badge/CodePen-NA-000000?style=for-the-badge&logo=codepen&labelColor=abcdef"></div>
+<div><a target="_blank" href="github.com"><img src="https://img.shields.io/badge/Facebook-NA-1877F2?style=for-the-badge&logo=facebook&labelColor=FAFAFA"></a></div>
+<div><a target="_blank" href="github.com"><img src="https://img.shields.io/badge/Twitter-NA-1DA1F2?style=for-the-badge&logo=twitter&labelColor=FAFAFA"></a></div>
+<div><a target="_blank" href="github.com"><img src="https://img.shields.io/badge/Instagram-NA-E4405F?style=for-the-badge&logo=instagram&labelColor=FAFAFA"></a></div>
+<div><a target="_blank" href="github.com"><img src="https://img.shields.io/badge/Unsplash-NA-FAFAFA?style=for-the-badge&logo=unsplash&labelColor=212121"></a></div>
+<div><a target="_blank" href="github.com"><img src="https://img.shields.io/badge/CodePen-NA-FAFAFA?style=for-the-badge&logo=codepen&labelColor=212121"></a></div>
 
 ## <img height="32em" src="/images/cafe.gif" align="left"/> Donation
 
