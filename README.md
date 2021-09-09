@@ -20,8 +20,8 @@
 ## 📃 Stats
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shinerising&hide=issues&include_all_commits=true&count_private=true&show_icons=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinerising&layout=compact">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Shinerising&hide=issues&include_all_commits=true&count_private=true&show_icons=true">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinerising&layout=compact">
 </p>
 
 ## ☕️ Donation
