@@ -17,12 +17,20 @@
 ![](https://img.shields.io/badge/Android%20Development-545454?style=for-the-badge&logo=androidstudio)
 ![](https://img.shields.io/badge/GraphQL-610028?style=for-the-badge&logo=graphql)
 
-## 📃 Stats
+## 📃 GitHub Stats
 
 <p>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Shinerising&hide=issues&include_all_commits=true&count_private=true&show_icons=true">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinerising&layout=compact">
 </p>
+
+## 🤝 Connect with me
+
+![](https://img.shields.io/badge/Facebook-NA-000000?style=for-the-badge&logo=facebook&labelColor=abcdef)
+![](https://img.shields.io/badge/Twitter-NA-000000?style=for-the-badge&logo=twitter&labelColor=abcdef)
+![](https://img.shields.io/badge/Instagram-NA-000000?style=for-the-badge&logo=instagram&labelColor=abcdef)
+![](https://img.shields.io/badge/Unsplash-NA-000000?style=for-the-badge&logo=unsplash&labelColor=abcdef)
+![](https://img.shields.io/badge/CodePen-NA-000000?style=for-the-badge&logo=codepen&labelColor=abcdef)
 
 ## ☕️ Donation
 
