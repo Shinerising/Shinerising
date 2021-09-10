@@ -37,7 +37,7 @@ I love playing games and watching anime.
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp)
 ![](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio)
 ![](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java)
-![](https://img.shields.io/badge/Android-545454?style=for-the-badge&logo=androidstudio&logoColor=white)
+![](https://img.shields.io/badge/Android-545454?style=for-the-badge&logo=androidstudio)
 
 > <img height="28em" src="/images/webdesign.svg" align="left"/>
 
