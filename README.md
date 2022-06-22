@@ -1,9 +1,9 @@
-# Hi there ! <img height="32em" src="/images/hi.gif"/>
+# Hi there ! <img width="32" height="32" src="/images/hi.gif"/>
 
 ## <img height="32em" src="/images/person.svg" align="left"/> About Me
 
 <a target="_blank">
-  <img align="right" height="220em" alt="GIF" src="/images/coding.gif">
+  <img align="right" height="220" width="300" alt="GIF" src="/images/coding.gif">
 </a>
   
 > <img height="28em" src="/images/workspace.svg" align="left"/>
