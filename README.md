@@ -76,8 +76,8 @@ I love playing games and watching anime.
 ## <img height="32em" src="https://raw.githubusercontent.com/Shinerising/Shinerising/main/images/stats.svg" align="left"/> GitHub Stats
 
 <p>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Shinerising&include_all_commits=true&count_private=true&show_icons=true">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinerising&layout=compact">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Shinerising&include_all_commits=true&count_private=true&show_icons=true&card_width=200">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinerising&layout=compact&card_width=200">
 </p>
 
 ## <img height="32em" src="https://raw.githubusercontent.com/Shinerising/Shinerising/main/images/contact.svg" align="left"/> Connect with me
